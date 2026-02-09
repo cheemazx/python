@@ -5,7 +5,6 @@ print(x-y)
 print(x*y)
 print(x/y)
 print(x%y)
-if 5>6:
-    print("5 is greater than 4")
-else:
-    print("5 is not greater than 4")
+"""
+this is a multiline comment"""
+d=10        #this is a single line comment
